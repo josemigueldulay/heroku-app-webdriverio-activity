@@ -1,0 +1,29 @@
+[2024-10-24 16:43:59] - Test Started: Heroku App Edit Contact TC004
+[2024-10-24 16:43:59] - STEP 1: Navigate to thinking tester website
+[2024-10-24 16:43:59] - VALIDATED STEP 1: User successfully navigated to website.
+[2024-10-24 16:43:59] - STEP 2: Login using the save credentials.
+[2024-10-24 16:43:59] - Started Function: setObjectValue
+[2024-10-24 16:44:00] - Completed Function: setObjectValue - Successfully set [//input[@id = "email"]]
+[2024-10-24 16:44:00] - Started Function: setObjectValue
+[2024-10-24 16:44:00] - Completed Function: setObjectValue - Successfully set [//input[@id = "password"]]
+[2024-10-24 16:44:00] - Started Function: clickObject
+[2024-10-24 16:44:00] - Completed Function: clickObject - Successfully clicked [//button[@id = "submit"]]
+[2024-10-24 16:44:00] - STEP 3: User clicks the first contact on the table
+[2024-10-24 16:44:01] - Started Function: clickObject
+[2024-10-24 16:44:02] - Completed Function: clickObject - Successfully clicked [//table//tr[1]//td[2]]
+[2024-10-24 16:44:02] - STEP 4: User clicks the edit contact button
+[2024-10-24 16:44:02] - Started Function: clickObject
+[2024-10-24 16:44:03] - Completed Function: clickObject - Successfully clicked [//button[@id = "edit-contact"]]
+[2024-10-24 16:44:03] - STEP 5: User edit the postal code to the date and today 
+[2024-10-24 16:44:03] - Started Function: setObjectValue
+[2024-10-24 16:44:03] - Completed Function: setObjectValue - Successfully set [//input[@id = "postalCode"]]
+[2024-10-24 16:44:03] - Started Function: setObjectValue
+[2024-10-24 16:44:03] - Completed Function: setObjectValue - Successfully set [//input[@id = "postalCode"]]
+[2024-10-24 16:44:03] - STEP 6: Click Submit Button.
+[2024-10-24 16:44:03] - Started Function: clickObject
+[2024-10-24 16:44:04] - Completed Function: clickObject - Successfully clicked [//button[@id = "submit"]]
+[2024-10-24 16:44:04] - Started Function: clickObject
+[2024-10-24 16:44:05] - Completed Function: clickObject - Successfully clicked [//button[@id = "return"]]
+[2024-10-24 16:44:05] - Started Function: clickObject
+[2024-10-24 16:44:06] - Completed Function: clickObject - Successfully clicked [//button[@id = "logout"]]
+[2024-10-24 16:44:06] - Test Completed: Heroku App Edit Contact TC004

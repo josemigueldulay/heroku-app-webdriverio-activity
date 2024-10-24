@@ -1,0 +1,133 @@
+[2024-10-24 16:43:35] - Test Started: Heroku App Add Contact TC003
+[2024-10-24 16:43:35] - STEP 1: Navigate to thinking tester website
+[2024-10-24 16:43:36] - VALIDATED STEP 1: User successfully navigated to website.
+[2024-10-24 16:43:36] - STEP 2: Login using the save credentials.
+[2024-10-24 16:43:36] - Started Function: setObjectValue
+[2024-10-24 16:43:37] - Completed Function: setObjectValue - Successfully set [//input[@id = "email"]]
+[2024-10-24 16:43:37] - Started Function: setObjectValue
+[2024-10-24 16:43:37] - Completed Function: setObjectValue - Successfully set [//input[@id = "password"]]
+[2024-10-24 16:43:37] - Started Function: clickObject
+[2024-10-24 16:43:37] - Completed Function: clickObject - Successfully clicked [//button[@id = "submit"]]
+[2024-10-24 16:43:37] - STEP 3: User clicks the Add New Contact Button for contact 1
+[2024-10-24 16:43:38] - Started Function: clickObject
+[2024-10-24 16:43:39] - Completed Function: clickObject - Successfully clicked [//button[@id = "add-contact"]]
+[2024-10-24 16:43:39] - STEP 4: User fills first name field for contact 1.
+[2024-10-24 16:43:39] - Started Function: setObjectValue
+[2024-10-24 16:43:39] - Completed Function: setObjectValue - Successfully set [//input[@id = "firstName"]]
+[2024-10-24 16:43:39] - STEP 5: User fills last name field for contact 1.
+[2024-10-24 16:43:39] - Started Function: setObjectValue
+[2024-10-24 16:43:40] - Completed Function: setObjectValue - Successfully set [//input[@id = "lastName"]]
+[2024-10-24 16:43:40] - STEP 6: User fills date of birth field for contact 1.
+[2024-10-24 16:43:40] - Started Function: setObjectValue
+[2024-10-24 16:43:40] - Completed Function: setObjectValue - Successfully set [//input[@id = "birthdate"]]
+[2024-10-24 16:43:40] - STEP 7: User fills email field for contact 1.
+[2024-10-24 16:43:40] - Started Function: setObjectValue
+[2024-10-24 16:43:40] - Completed Function: setObjectValue - Successfully set [//input[@id = "email"]]
+[2024-10-24 16:43:40] - STEP 8: User fills phone field for contact 1.
+[2024-10-24 16:43:40] - Started Function: setObjectValue
+[2024-10-24 16:43:40] - Completed Function: setObjectValue - Successfully set [//input[@id = "phone"]]
+[2024-10-24 16:43:40] - STEP 9: User fills street address 1 field for contact 1.
+[2024-10-24 16:43:41] - Started Function: setObjectValue
+[2024-10-24 16:43:41] - Completed Function: setObjectValue - Successfully set [//input[@id = "street1"]]
+[2024-10-24 16:43:41] - STEP 10: User fills street address 2 field for contact 1.
+[2024-10-24 16:43:41] - Started Function: setObjectValue
+[2024-10-24 16:43:41] - Completed Function: setObjectValue - Successfully set [//input[@id = "street2"]]
+[2024-10-24 16:43:41] - STEP 11: User fills city field for contact 1.
+[2024-10-24 16:43:41] - Started Function: setObjectValue
+[2024-10-24 16:43:41] - Completed Function: setObjectValue - Successfully set [//input[@id = "city"]]
+[2024-10-24 16:43:41] - STEP 12: User fills state or province field for contact 1.
+[2024-10-24 16:43:41] - Started Function: setObjectValue
+[2024-10-24 16:43:42] - Completed Function: setObjectValue - Successfully set [//input[@id = "stateProvince"]]
+[2024-10-24 16:43:42] - STEP 13: User fills postal code field for contact 1.
+[2024-10-24 16:43:42] - Started Function: setObjectValue
+[2024-10-24 16:43:42] - Completed Function: setObjectValue - Successfully set [//input[@id = "postalCode"]]
+[2024-10-24 16:43:42] - STEP 14: User fills country field for contact 1.
+[2024-10-24 16:43:42] - Started Function: setObjectValue
+[2024-10-24 16:43:42] - Completed Function: setObjectValue - Successfully set [//input[@id = "country"]]
+[2024-10-24 16:43:42] - STEP 15: Click submit button.
+[2024-10-24 16:43:42] - Started Function: clickObject
+[2024-10-24 16:43:43] - Completed Function: clickObject - Successfully clicked [//button[@id = "submit"]]
+[2024-10-24 16:43:43] - VALIDATED: Contact 1 created successfully.
+[2024-10-24 16:43:43] - STEP 3: User clicks the Add New Contact Button for contact 2
+[2024-10-24 16:43:43] - Started Function: clickObject
+[2024-10-24 16:43:44] - Completed Function: clickObject - Successfully clicked [//button[@id = "add-contact"]]
+[2024-10-24 16:43:44] - STEP 4: User fills first name field for contact 2.
+[2024-10-24 16:43:45] - Started Function: setObjectValue
+[2024-10-24 16:43:45] - Completed Function: setObjectValue - Successfully set [//input[@id = "firstName"]]
+[2024-10-24 16:43:45] - STEP 5: User fills last name field for contact 2.
+[2024-10-24 16:43:45] - Started Function: setObjectValue
+[2024-10-24 16:43:45] - Completed Function: setObjectValue - Successfully set [//input[@id = "lastName"]]
+[2024-10-24 16:43:45] - STEP 6: User fills date of birth field for contact 2.
+[2024-10-24 16:43:45] - Started Function: setObjectValue
+[2024-10-24 16:43:46] - Completed Function: setObjectValue - Successfully set [//input[@id = "birthdate"]]
+[2024-10-24 16:43:46] - STEP 7: User fills email field for contact 2.
+[2024-10-24 16:43:46] - Started Function: setObjectValue
+[2024-10-24 16:43:46] - Completed Function: setObjectValue - Successfully set [//input[@id = "email"]]
+[2024-10-24 16:43:46] - STEP 8: User fills phone field for contact 2.
+[2024-10-24 16:43:47] - Started Function: setObjectValue
+[2024-10-24 16:43:47] - Completed Function: setObjectValue - Successfully set [//input[@id = "phone"]]
+[2024-10-24 16:43:47] - STEP 9: User fills street address 1 field for contact 2.
+[2024-10-24 16:43:47] - Started Function: setObjectValue
+[2024-10-24 16:43:47] - Completed Function: setObjectValue - Successfully set [//input[@id = "street1"]]
+[2024-10-24 16:43:47] - STEP 10: User fills street address 2 field for contact 2.
+[2024-10-24 16:43:47] - Started Function: setObjectValue
+[2024-10-24 16:43:48] - Completed Function: setObjectValue - Successfully set [//input[@id = "street2"]]
+[2024-10-24 16:43:48] - STEP 11: User fills city field for contact 2.
+[2024-10-24 16:43:48] - Started Function: setObjectValue
+[2024-10-24 16:43:48] - Completed Function: setObjectValue - Successfully set [//input[@id = "city"]]
+[2024-10-24 16:43:48] - STEP 12: User fills state or province field for contact 2.
+[2024-10-24 16:43:48] - Started Function: setObjectValue
+[2024-10-24 16:43:49] - Completed Function: setObjectValue - Successfully set [//input[@id = "stateProvince"]]
+[2024-10-24 16:43:49] - STEP 13: User fills postal code field for contact 2.
+[2024-10-24 16:43:49] - Started Function: setObjectValue
+[2024-10-24 16:43:49] - Completed Function: setObjectValue - Successfully set [//input[@id = "postalCode"]]
+[2024-10-24 16:43:49] - STEP 14: User fills country field for contact 2.
+[2024-10-24 16:43:49] - Started Function: setObjectValue
+[2024-10-24 16:43:49] - Completed Function: setObjectValue - Successfully set [//input[@id = "country"]]
+[2024-10-24 16:43:49] - STEP 15: Click submit button.
+[2024-10-24 16:43:49] - Started Function: clickObject
+[2024-10-24 16:43:49] - Completed Function: clickObject - Successfully clicked [//button[@id = "submit"]]
+[2024-10-24 16:43:49] - VALIDATED: Contact 2 created successfully.
+[2024-10-24 16:43:49] - STEP 3: User clicks the Add New Contact Button for contact 3
+[2024-10-24 16:43:50] - Started Function: clickObject
+[2024-10-24 16:43:51] - Completed Function: clickObject - Successfully clicked [//button[@id = "add-contact"]]
+[2024-10-24 16:43:51] - STEP 4: User fills first name field for contact 3.
+[2024-10-24 16:43:52] - Started Function: setObjectValue
+[2024-10-24 16:43:52] - Completed Function: setObjectValue - Successfully set [//input[@id = "firstName"]]
+[2024-10-24 16:43:52] - STEP 5: User fills last name field for contact 3.
+[2024-10-24 16:43:52] - Started Function: setObjectValue
+[2024-10-24 16:43:52] - Completed Function: setObjectValue - Successfully set [//input[@id = "lastName"]]
+[2024-10-24 16:43:52] - STEP 6: User fills date of birth field for contact 3.
+[2024-10-24 16:43:52] - Started Function: setObjectValue
+[2024-10-24 16:43:52] - Completed Function: setObjectValue - Successfully set [//input[@id = "birthdate"]]
+[2024-10-24 16:43:52] - STEP 7: User fills email field for contact 3.
+[2024-10-24 16:43:53] - Started Function: setObjectValue
+[2024-10-24 16:43:53] - Completed Function: setObjectValue - Successfully set [//input[@id = "email"]]
+[2024-10-24 16:43:53] - STEP 8: User fills phone field for contact 3.
+[2024-10-24 16:43:53] - Started Function: setObjectValue
+[2024-10-24 16:43:54] - Completed Function: setObjectValue - Successfully set [//input[@id = "phone"]]
+[2024-10-24 16:43:54] - STEP 9: User fills street address 1 field for contact 3.
+[2024-10-24 16:43:54] - Started Function: setObjectValue
+[2024-10-24 16:43:54] - Completed Function: setObjectValue - Successfully set [//input[@id = "street1"]]
+[2024-10-24 16:43:54] - STEP 10: User fills street address 2 field for contact 3.
+[2024-10-24 16:43:54] - Started Function: setObjectValue
+[2024-10-24 16:43:55] - Completed Function: setObjectValue - Successfully set [//input[@id = "street2"]]
+[2024-10-24 16:43:55] - STEP 11: User fills city field for contact 3.
+[2024-10-24 16:43:55] - Started Function: setObjectValue
+[2024-10-24 16:43:55] - Completed Function: setObjectValue - Successfully set [//input[@id = "city"]]
+[2024-10-24 16:43:55] - STEP 12: User fills state or province field for contact 3.
+[2024-10-24 16:43:55] - Started Function: setObjectValue
+[2024-10-24 16:43:56] - Completed Function: setObjectValue - Successfully set [//input[@id = "stateProvince"]]
+[2024-10-24 16:43:56] - STEP 13: User fills postal code field for contact 3.
+[2024-10-24 16:43:56] - Started Function: setObjectValue
+[2024-10-24 16:43:56] - Completed Function: setObjectValue - Successfully set [//input[@id = "postalCode"]]
+[2024-10-24 16:43:56] - STEP 14: User fills country field for contact 3.
+[2024-10-24 16:43:56] - Started Function: setObjectValue
+[2024-10-24 16:43:57] - Completed Function: setObjectValue - Successfully set [//input[@id = "country"]]
+[2024-10-24 16:43:57] - STEP 15: Click submit button.
+[2024-10-24 16:43:57] - Started Function: clickObject
+[2024-10-24 16:43:57] - Completed Function: clickObject - Successfully clicked [//button[@id = "submit"]]
+[2024-10-24 16:43:57] - VALIDATED: Contact 3 created successfully.
+[2024-10-24 16:43:58] - Started Function: clickObject
+[2024-10-24 16:43:59] - Completed Function: clickObject - Successfully clicked [//button[@id = "logout"]]
+[2024-10-24 16:43:59] - Test Completed: Heroku App Add Contact TC003

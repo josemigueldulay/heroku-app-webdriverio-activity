@@ -1,0 +1,75 @@
+------- [2024-10-24 16:44:15] -------
+
+
+--------- LIST OF CONTACTS ---------
+
+
+------------ Contact 1 ------------
+
+sampleFirstName1 sampleLastName1
+2024-10-24
+contact_1@email.com
+1234567891
+SampleStreet_1 SampleStreet_1
+SampleCity_1 state_1 20241024
+Philippines
+
+------------ Contact 2 ------------
+
+sampleFirstName1 sampleLastName1
+2024-10-24
+contact_1@email.com
+1234567891
+SampleStreet_1 SampleStreet_1
+SampleCity_1 state_1 1231
+Philippines
+
+------------ Contact 3 ------------
+
+sampleFirstName1 sampleLastName1
+2024-10-24
+contact_1@email.com
+1234567891
+SampleStreet_1 SampleStreet_1
+SampleCity_1 state_1 1231
+Philippines
+
+------------ Contact 4 ------------
+
+sampleFirstName2 sampleLastName2
+2024-10-24
+contact_2@email.com
+1234567892
+SampleStreet_2 SampleStreet_2
+SampleCity_2 state_2 1232
+Philippines
+
+------------ Contact 5 ------------
+
+sampleFirstName2 sampleLastName2
+2024-10-24
+contact_2@email.com
+1234567892
+SampleStreet_2 SampleStreet_2
+SampleCity_2 state_2 1232
+Philippines
+
+------------ Contact 6 ------------
+
+sampleFirstName2 sampleLastName2
+2024-10-24
+contact_2@email.com
+1234567892
+SampleStreet_2 SampleStreet_2
+SampleCity_2 state_2 1232
+Philippines
+
+------------ Contact 7 ------------
+
+sampleFirstName3 sampleLastName3
+2024-10-24
+contact_3@email.com
+1234567893
+SampleStreet_3 SampleStreet_3
+SampleCity_3 state_3 1233
+Philippines

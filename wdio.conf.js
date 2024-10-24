@@ -57,9 +57,10 @@ export const config = {
     //
     capabilities: [{
         browserName: 'chrome',
-        'goog:chromeOptions' : {
-            args: ['--window-size=700,700'],
-        }
+        'wdio:enforceWebDriverClassic' : true
+        // 'goog:chromeOptions' : {
+        //     args: ['--window-size=700,700'],
+        // }
     }],
 
     //

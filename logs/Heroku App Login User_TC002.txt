@@ -1,14 +1,16 @@
-[2024-10-24 12:23:28] - Test Started: Heroku App Login User_TC002
-[2024-10-24 12:23:29] - STEP 1: Navigate to thinking tester website
-[2024-10-24 12:23:30] - VALIDATED STEP 1: User successfully navigated to website.
-[2024-10-24 12:23:30] - STEP 2: User fill email field.
-[2024-10-24 12:23:30] - Started Function: setObjectValue
-[2024-10-24 12:23:31] - Completed Function: setObjectValue - Successfully set [//input[@id = "email"]]
-[2024-10-24 12:23:31] - STEP 3: User fill password field.
-[2024-10-24 12:23:31] - Started Function: setObjectValue
-[2024-10-24 12:23:31] - Completed Function: setObjectValue - Successfully set [//input[@id = "password"]]
-[2024-10-24 12:23:31] - STEP 4: Click Submit Button.
-[2024-10-24 12:23:31] - Started Function: clickObject
-[2024-10-24 12:23:31] - Completed Function: clickObject - Successfully clicked [//button[@id = "submit"]]
-[2024-10-24 12:23:32] - VALIDATED STEP 4: User successfully navigated to homepage.
-[2024-10-24 12:23:35] - Test Completed: Heroku App Login User_TC002
+[2024-10-24 16:43:31] - Test Started: Heroku App Login User_TC002
+[2024-10-24 16:43:31] - STEP 1: Navigate to thinking tester website
+[2024-10-24 16:43:33] - VALIDATED STEP 1: User successfully navigated to website.
+[2024-10-24 16:43:33] - STEP 2: User fill email field.
+[2024-10-24 16:43:33] - Started Function: setObjectValue
+[2024-10-24 16:43:33] - Completed Function: setObjectValue - Successfully set [//input[@id = "email"]]
+[2024-10-24 16:43:33] - STEP 3: User fill password field.
+[2024-10-24 16:43:33] - Started Function: setObjectValue
+[2024-10-24 16:43:34] - STEP 4: Click Submit Button.
+[2024-10-24 16:43:34] - Completed Function: setObjectValue - Successfully set [//input[@id = "password"]]
+[2024-10-24 16:43:34] - Started Function: clickObject
+[2024-10-24 16:43:34] - Completed Function: clickObject - Successfully clicked [//button[@id = "submit"]]
+[2024-10-24 16:43:35] - VALIDATED STEP 4: User successfully navigated to homepage.
+[2024-10-24 16:43:35] - Started Function: clickObject
+[2024-10-24 16:43:35] - Completed Function: clickObject - Successfully clicked [//button[@id = "logout"]]
+[2024-10-24 16:43:35] - Test Completed: Heroku App Login User_TC002

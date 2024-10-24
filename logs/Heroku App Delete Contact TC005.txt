@@ -1,0 +1,19 @@
+[2024-10-24 16:44:06] - Test Started: Heroku App Delete Contact TC005
+[2024-10-24 16:44:06] - STEP 1: Navigate to thinking tester website
+[2024-10-24 16:44:06] - VALIDATED STEP 1: User successfully navigated to website.
+[2024-10-24 16:44:06] - STEP 2: Login using the save credentials.
+[2024-10-24 16:44:07] - Started Function: setObjectValue
+[2024-10-24 16:44:07] - Completed Function: setObjectValue - Successfully set [//input[@id = "email"]]
+[2024-10-24 16:44:07] - Started Function: setObjectValue
+[2024-10-24 16:44:07] - Completed Function: setObjectValue - Successfully set [//input[@id = "password"]]
+[2024-10-24 16:44:07] - Started Function: clickObject
+[2024-10-24 16:44:08] - Completed Function: clickObject - Successfully clicked [//button[@id = "submit"]]
+[2024-10-24 16:44:08] - STEP 3: User clicks the last contact on the table
+[2024-10-24 16:44:09] - Started Function: clickObject
+[2024-10-24 16:44:09] - Completed Function: clickObject - Successfully clicked [(//tr[last()])[2]]
+[2024-10-24 16:44:09] - STEP 4: User clicks the delete contact button
+[2024-10-24 16:44:09] - Started Function: clickObject
+[2024-10-24 16:44:10] - Completed Function: clickObject - Successfully clicked [//button[@id = "delete"]]
+[2024-10-24 16:44:10] - Started Function: clickObject
+[2024-10-24 16:44:11] - Completed Function: clickObject - Successfully clicked [//button[@id = "logout"]]
+[2024-10-24 16:44:11] - Test Completed: Heroku App Delete Contact TC005
